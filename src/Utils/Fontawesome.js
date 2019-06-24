@@ -1,0 +1,1 @@
+export default () => ["fas fa-heart","fas fa-diamond","fas fa-suitcase","fas fa-battery-full"];
